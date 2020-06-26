@@ -1,6 +1,6 @@
 {
   "name": "manual-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm 手册",
   "main": "index.js",
   "scripts": {
