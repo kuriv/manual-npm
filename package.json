@@ -1,10 +1,11 @@
 {
   "name": "manual-npm",
-  "version": "1.0.4",
-  "description": "npm 手册",
+  "version": "1.0.5",
+  "description": "npm 是 JavaScript 的包管理工具，也是 Node.js 的默认包管理工具。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",
